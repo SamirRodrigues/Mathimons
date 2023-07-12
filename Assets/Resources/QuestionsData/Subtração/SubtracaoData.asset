@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: SubtracaoData
+  m_EditorClassIdentifier: 
+  categoryName: "Subtra\xE7\xE3o"
+  questions:
+  - questionInfo: 
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 388c389c57bb2854fbd28e25e0113bd2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 7
+    - 8
+    - 9
+    - 10
+    correctAns: 9
+  - questionInfo: 
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 93993b0ccd9dd90439fcec623b6dc968, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 9
+    - 6
+    - 3
+    - 1
+    correctAns: 3
+  - questionInfo: 
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ca1126afec5c1394e906b367db59862f, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 9
+    - 6
+    - 3
+    - 1
+    correctAns: 9
+  - questionInfo: 
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: ebe18e82c6e199544be27e6f9ba37ba5, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 8
+    - 5
+    - 2
+    - -1
+    correctAns: 5
+  - questionInfo: 
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: c96af9677dd66c443a7c19806cded07b, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 5
+    - 6
+    - 7
+    - 8
+    correctAns: 6
